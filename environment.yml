@@ -16,5 +16,5 @@ dependencies:
   - pip
   - pip:
     - pyro-ppl==1.4.0
-prefix: /home/martin/miniconda3/envs/pyro
+    - git+https://github.com/jafetgado/resreg.git
 
