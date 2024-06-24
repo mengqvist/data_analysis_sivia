@@ -19,6 +19,10 @@ This project is part of my journey to learn Pyro, a universal probabilistic prog
    ```
 3. Open the Jupyter notebook in the repository
 
+**Alternatively**, click the badge below to launch this project in a Binder environment in your browser.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mengqvist/data_analysis_sivia/HEAD)
+
 ## Notebooks
 1. [Main Notebook](https://github.com/mengqvist/data_analysis_sivia/blob/master/data_analysis_sivia.ipynb) - Implementation of book examples using Pyro
 2. [Bayesian Linear Regression](https://github.com/mengqvist/data_analysis_sivia/blob/master/bayesian_linear_regression.ipynb) - An extension to the book's content, implementing and testing a Bayesian Linear Regression model on simulated data.
